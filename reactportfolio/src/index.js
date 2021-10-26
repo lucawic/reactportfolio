@@ -13,7 +13,7 @@ import Testimonials from "./components/Testimonials";
 function App() {
   return (
     <div>
-      <h1>My component</h1>
+      <h1></h1>
     </div>
   )
 }
@@ -22,8 +22,10 @@ ReactDOM.render(
   <React.Fragment>
     <App />
     <About />
+    <Skills />
     <Projects />
-  
+    <Testimonials />
+    
   </React.Fragment>,
   document.getElementById('root')
 );
