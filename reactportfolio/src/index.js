@@ -8,7 +8,7 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-import Testimonials from "./components/Testimonials";
+import Header from "./components/Header";
 
 function App() {
   return (
@@ -21,10 +21,11 @@ function App() {
 ReactDOM.render(
   <React.Fragment>
     <App />
+    <Header />
     <About />
-    <Skills />
     <Projects />
-    <Testimonials />
+    <Skills />
+    
     
   </React.Fragment>,
   document.getElementById('root')

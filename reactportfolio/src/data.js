@@ -1,27 +1,27 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Camping Buddy",
+    subtitle: "api-pro",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "An app created to work as a planning tool for a camping trip. Using the National Park Service in combination with Open Weather and Open Layer to provide useful information for your trip.",
+    image: "./CampingApp.gif",
+    link: "https://lucawic.github.io/api-pro/",
   },
   {
-    title: "React Tracks",
+    title: "Password Generator",
     subtitle: "React and Python",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    image: "./PasswordGen.gif",
+    link: "https://lucawic.github.io/password-gen/",
   },
   {
     title: "DevChat",
     subtitle: "React and Firebase",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    image: "./NoatAcre.gif",
+    link: "https://noat-acre11.herokuapp.com/",
   },
   {
     title: "Epic Todo App",
@@ -36,18 +36,11 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
-  },
+    "This is a collection of my work and collaborations. I have chosen projects that I believe best displays my skills as a Web Developer, and I have presented them in a way that can demonstrate my progress as I learn and grow my trade over time. Some of this may be of interest to you. It can also be a resource to those willing to learn.",
+    image: "./picsmol.png",
+    name: "Lucas Wick",
+    company: "~~~",
+  }
 ];
 
 export const skills = [
