@@ -1,5 +1,4 @@
 import React from "react";
-import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
 import { testimonials } from "../data";
 
 //React component to export this file to the APP
@@ -12,8 +11,8 @@ export default function Testimonials () {
         <path d="M2 13.692V16a2 2 0 002 2h12a2 2 0 002-2v-2.308A24.974 24.974 0 0110 15c-2.796 0-5.487-.46-8-1.308z" />
       </svg>
         <div className="flex flex-wrap m-4">
-        <div>
-              <h1 className="text-gray-900 bg-purple-50 shadow-2xl p-5 w-full text-5xl m-10"> Lucas Wick <span className="text-7xl ">|||</span>  <span className="text-2xl ml-2 font-bold">Web Developer</span></h1>
+        <div className="">
+              <h1 className="text-gray-900 bg-purple-50 shadow-2xl p-5 w-full text-5xl mb-16 my-10 "> Lucas Wick <span className="text-7xl ">|||</span>  <span className="text-2xl ml-2 font-bold">Web Developer</span></h1>
           </div>
           {testimonials.map((testimonial) => (
             <div className="p-4 w-full">
