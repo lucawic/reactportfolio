@@ -31,7 +31,7 @@ export default function Projects () {
                       className="absolute inset-0 w-full h-full object-cover object-center"
                       src={project.image}
                     />
-                    <div className="px-8 py-10 relative z-10 w-full border-4 border-purple-100 bg-blue-50 opacity-0 hover:opacity-100">
+                    <div className="px-8 py-10 relative z-10 w-full border-4 border-indigo-300 bg-purple-50 opacity-0 hover:opacity-90">
                       <h2 className="tracking-widest text-sm title-font font-medium text-black mb-1">
                         {project.subtitle}
                       </h2>
