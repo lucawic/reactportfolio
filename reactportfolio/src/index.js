@@ -21,6 +21,7 @@ function App() {
 ReactDOM.render(
   <React.Fragment>
     <App />
+    <Navbar />
     <Header />
     <About />
     <Projects />
