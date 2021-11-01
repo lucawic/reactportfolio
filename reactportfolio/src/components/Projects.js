@@ -14,15 +14,15 @@ export default function Projects () {
                 Apps I've Built
               </h1>
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-700">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-                facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-                fuga dolore.
+                This section is dedicated to displaying my past projects. They range in a varying degree of difficulty, and are a representation of technologies I am proficient in.
+                Expect updates to this library accordingly. My GitHub is also active and will represent the most current changes, that can be found at the top of the page or here. ~ https://github.com/lucawic
               </p>
             </div>
             <div className="flex flex-wrap -m-4 bg-green-50">
               {projects.map((project) => (
                 <a
                   href={project.link}
+                  target="_blank"
                   key={project.image}
                   className="sm:w-1/2 w-100 p-4">
                   <div className="flex relative shadow-2xl">

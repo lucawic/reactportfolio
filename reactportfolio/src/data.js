@@ -28,8 +28,8 @@ export const projects = [
     subtitle: "React Hooks",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    image: "./WorkDaySched.gif",
+    link: "https://github.com/lucawic/workday-scheduler",
   },
 ];
 
@@ -49,5 +49,5 @@ export const skills = [
   "HTML/CSS",
   "Node",
   "JQuery",
-  "",
+  "Excel/Word/Sharepoint",
 ];
