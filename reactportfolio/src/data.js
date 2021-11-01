@@ -9,25 +9,25 @@ export const projects = [
   },
   {
     title: "Password Generator",
-    subtitle: "React and Python",
+    subtitle: "JS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "The password generator can randomly create the user a password, according to a variety of criteria like length, Lowercase and Uppercase use, special characters, and numerals.",
     image: "./PasswordGen.gif",
     link: "https://lucawic.github.io/password-gen/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "NoteTaker",
+    subtitle: "JS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Functioning like a sticky note app, the NoteTaker is as versatile as a notepad, where you can write things down and save them, to be able to reference thme later.",
     image: "./NoatAcre.gif",
     link: "https://noat-acre11.herokuapp.com/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Workday Scheduler",
+    subtitle: "JS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "The perfect tool to organize your day. Use the workday scheduler to outline your tasks/meetings for the day and stay on top of it all.",
     image: "./WorkDaySched.gif",
     link: "https://github.com/lucawic/workday-scheduler",
   },
