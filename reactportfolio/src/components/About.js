@@ -11,10 +11,13 @@ export default function About () {
             <br className="hidden lg:inline-block" />I love to build amazing
             apps.
           </h1>
-          <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          <p className="mb-8 leading-relaxed text-justify">
+            I am a greenhorn in the IT and Web Developement world. However, I have begun my first 1-year contract as a quality assurance tester, and have been ecstatic to get the ball rolling 
+            as far as my career is concerned. Born and raised in Tucson, AZ. Living in the desert and still having family spread over the country/globe has offered a unique perspective on life. 
+            There is more fluidity to the way I go about my interactions, because of this uniqueness. It is much easier to see the perspective of others,
+            or rather take a non-objective view of a situational matter, and analyze it to its very core. These skills and attention to detail have been important to me thus far
+            in my young professional career, and I certainly have imported these characteristics into my work as a Web Developer. 
+
           </p>
           <div className="flex justify-center">
             <a
